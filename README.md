@@ -1,6 +1,5 @@
 # Anti-plagiarism utility | Python3
 ## Utility that compares two text of Python programs and gives an estimate of their similarity
-
 ## Usage:
 ```
 compare.py [-h] input_file [output_file]
